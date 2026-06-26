@@ -1,5 +1,5 @@
 {
-  "additionalFiles": "../../..,../../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..",
+  "additionalFiles": "../../..,../../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..",
   "compiler.optimization_flags": "-Os",
   "customBuildProperties": "",
   "fqbn": "esp32:esp32:nodemcu-32s:UploadSpeed=115200,FlashFreq=80,DebugLevel=none,EraseFlash=none",
