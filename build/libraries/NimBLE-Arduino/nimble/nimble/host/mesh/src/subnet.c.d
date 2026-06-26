@@ -1,0 +1,6 @@
+/Users/leko/Downloads/SparkMIDICaptain-main/SparkMIDICaptain3/build/libraries/NimBLE-Arduino/nimble/nimble/host/mesh/src/subnet.c.o: \
+ /Users/leko/Documents/Arduino/libraries/NimBLE-Arduino/src/nimble/nimble/host/mesh/src/subnet.c \
+ /Users/leko/Documents/Arduino/libraries/NimBLE-Arduino/src/nimble/porting/nimble/include/syscfg/syscfg.h \
+ /Users/leko/Documents/Arduino/libraries/NimBLE-Arduino/src/nimble/esp_port/port/include/esp_nimble_cfg.h \
+ /Users/leko/Documents/Arduino/libraries/NimBLE-Arduino/src/nimconfig.h \
+ /Users/leko/Documents/Arduino/libraries/NimBLE-Arduino/src/nimconfig_rename.h

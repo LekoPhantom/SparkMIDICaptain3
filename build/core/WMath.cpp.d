@@ -1,0 +1,31 @@
+/Users/leko/Downloads/SparkMIDICaptain-main/SparkMIDICaptain3/build/core/WMath.cpp.o: \
+ /Users/leko/Library/Arduino15/packages/esp32/hardware/esp32/3.3.10/cores/esp32/WMath.cpp \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_system/include/esp_system.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_err.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/newlib/platform_include/stdio.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_compiler.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_attr.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_bit_defs.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_idf_version.h \
+ /Users/leko/Library/Arduino15/packages/esp32/hardware/esp32/3.3.10/cores/esp32/esp32-hal-log.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_timer/include/esp_timer.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_hw_support/include/esp_etm.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_rom/esp32/include/esp32/rom/ets_sys.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_rom/include/esp_rom_sys.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/soc/esp32/include/soc/reset_reasons.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/soc/esp32/include/soc/soc_caps.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_config.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_level.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_assert.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_color.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_buffer.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_timestamp.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_write.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_format.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_args.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_macros.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_common/include/esp_assert.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_log_attr.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/log/include/esp_private/log_attr.h \
+ /Users/leko/Library/Arduino15/packages/esp32/tools/esp32-libs/3.3.10/include/esp_hw_support/include/esp_random.h

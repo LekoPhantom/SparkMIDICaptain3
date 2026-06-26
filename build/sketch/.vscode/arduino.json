@@ -1,0 +1,20 @@
+#line 1 "/Users/leko/Downloads/SparkMIDICaptain-main/SparkMIDICaptain3/.vscode/arduino.json"
+{
+  "port": "/dev/cu.debug-console",
+  "configuration": "UploadSpeed=115200,FlashFreq=80,DebugLevel=none,EraseFlash=none",
+  "output": "build",
+  "board": "esp32:esp32:nodemcu-32s",
+  "programmer": "",
+  "useProgrammer": false,
+  "optimize_for_debug": false,
+  "configurationRequired": true,
+  "compile_profile": "",
+  "monitorPortSettings": {
+    "port": "/dev/cu.debug-console",
+    "baudRate": 115200,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}
