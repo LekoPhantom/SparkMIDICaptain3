@@ -1,6 +1,6 @@
 #line 1 "/Users/leko/Downloads/SparkMIDICaptain-main/SparkMIDICaptain3/.vscode/arduino.json"
 {
-  "port": "/dev/cu.debug-console",
+  "port": "/dev/cu.usbserial-0001",
   "configuration": "UploadSpeed=115200,FlashFreq=80,DebugLevel=none,EraseFlash=none",
   "output": "build",
   "board": "esp32:esp32:nodemcu-32s",
@@ -10,11 +10,14 @@
   "configurationRequired": true,
   "compile_profile": "",
   "monitorPortSettings": {
-    "port": "/dev/cu.debug-console",
-    "baudRate": 115200,
-    "lineEnding": "\r\n",
-    "dataBits": 8,
-    "parity": "none",
-    "stopBits": "one"
+    "settings": {
+      "port": "/dev/tty.usbserial-0001",
+      "baudRate": 115200,
+      "lineEnding": "\r\n",
+      "dataBits": 8,
+      "parity": "none",
+      "stopBits": "one"
+    },
+    "profile_name": ""
   }
 }
