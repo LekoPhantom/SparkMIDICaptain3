@@ -100,15 +100,6 @@ MessageOut spark_msg_out(0x0100);
 MessageOut app_msg_out(0x0300);
 
 
-// ------------------------------------------------------------
-// New global Spark state (for tuner + last cmd/sub)
-// ------------------------------------------------------------
-extern bool   spark_tuner_active;
-extern String spark_tuner_note;
-extern int    spark_tuner_cents;
-
-extern uint8_t spark_last_cmd;
-extern uint8_t spark_last_sub;
 
 
 // ------------------------------------------------------------
